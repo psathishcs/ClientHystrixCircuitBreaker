@@ -1,0 +1,27 @@
+# .gitignore
+ 
+# Java class files
+*.class
+
+# Executable files
+*.exe
+
+# Object and archive files
+# Can use regular expression, e.g., [oa] matches either o or a
+*.[oa]
+
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# temp sub-directory (ended with a directory separator)
+bin/
+build/
+.gradle/
+.settings/

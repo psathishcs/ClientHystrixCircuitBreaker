@@ -1,0 +1,12 @@
+
+server:
+  port: 8055
+  contextPath: /hr/api
+
+logging:
+  level:
+    org.hr.client: INFO
+
+spring:
+    application:
+        name: ClientHystrixCircuitBreaker
